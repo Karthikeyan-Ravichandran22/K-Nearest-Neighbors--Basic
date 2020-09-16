@@ -1,6 +1,6 @@
 # K-Nearest-Neighbors--Basic
 
-# How data collection and preparation are the foundation for trusted ML models
+### How data collection and preparation are the foundation for trusted ML models
 Step 1. Extract<br/>
     a. Features and target should not have null values<br/>
     b. Features should not be non-numeric<br/>
